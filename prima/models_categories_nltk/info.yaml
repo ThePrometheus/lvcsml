@@ -1,0 +1,16 @@
+categories:
+- bad_habits
+- education
+- alcohol
+- animals
+letters: false
+methods:
+- SVC
+- MultinomialNB
+model_id: 85718a5a-0a58-4b3a-b0f0-2c523c265c03
+ngrams: false
+symbolic_ngrams: null
+tokenization: nltk
+version: 1.63
+words: true
+words_raw: true

@@ -1,0 +1,16 @@
+categories:
+- bad_habits
+- education
+- alcohol
+- animals
+letters: false
+methods:
+- SVC
+- MultinomialNB
+model_id: c2eff54d-e76f-4721-af63-aec0c59bb52d
+ngrams: false
+symbolic_ngrams: null
+tokenization: spacy
+version: 1.63
+words: true
+words_raw: true
